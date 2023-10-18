@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam)](https://github.com/teelsam/github-readme-stats)
 <!--
 **Teelsam/TeelSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
