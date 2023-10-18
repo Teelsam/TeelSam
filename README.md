@@ -1,5 +1,13 @@
-### Hi there 👋
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam)](https://github.com/teelsam/github-readme-stats)
+### Hi there 👋, Thanks for visiting my GitHub!~ 
+
+📫 How to reach me: `sjkteel@hotmail.com`
+
+My name is Sam and I currently live in Ottawa! I am a Carleton University Fullstack bootcamp grad and looking for work in the web development field. 
+
+⚡ Skills: 
+* React
+* `JavaScript`, `HTML`, `CSS`
+
 <!--
 **Teelsam/TeelSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
