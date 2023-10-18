@@ -5,7 +5,7 @@
 My name is Sam and I currently live in Ottawa! I am a Carleton University Fullstack bootcamp grad and looking for work in the web development field. 
 
 ⚡ Skills: 
-* React
+* `React`
 * `JavaScript`, `HTML`, `CSS`
 
 <!--
