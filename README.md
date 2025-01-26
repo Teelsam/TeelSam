@@ -3,11 +3,11 @@
 📫 How to reach me: `sjkteel@hotmail.com`
 
 My name is Sam and I currently live in Ottawa! I am a Carleton University Fullstack bootcamp grad and looking for work in the web development field. 
-
+  ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam&hide_rank=true)
 ⚡ Skills: 
 * * `JavaScript`, `HTML`, `CSS`,`react`
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](ttps://skillicons.dev)
-    ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam&hide_rank=true)
+  
 
 
 <!--
