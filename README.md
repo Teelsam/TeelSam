@@ -7,7 +7,7 @@ My name is Sam and I currently live in Ottawa! I am a Carleton University Fullst
 ⚡ Skills: 
 * `React`
 * `JavaScript`, `HTML`, `CSS`
-
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,)](ttps://skillicons.dev)
     ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam&hide_rank=true)
 
 
