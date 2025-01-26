@@ -1,10 +1,10 @@
-### Hi there 👋, Thanks for visiting my GitHub!~ 
+# Hi there 👋, Thanks for visiting my GitHub!~ 
 
-📫 How to reach me: `sjkteel@hotmail.com`
+📫 **How to reach me: `sjkteel@hotmail.com`**
 
-My name is Sam and I currently live in Ottawa! I am a Carleton University Fullstack bootcamp grad and looking for work in the web development field. 
+My name is *Sam Teel* and I currently live in Ottawa! I am a Carleton University Fullstack bootcamp grad and looking to `code` work in the web development field! 
                                                                                                                         
-⚡ Skills: 
+⚡ **Skills**: 
 * * `JavaScript`, `HTML`, `CSS`,`react`
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](ttps://skillicons.dev)
   
@@ -12,7 +12,7 @@ My name is Sam and I currently live in Ottawa! I am a Carleton University Fullst
  ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam&hide_rank=true)
 
 
-# Thank you for Visiting!
+## Thank you for Visiting!
 <!--
 **Teelsam/TeelSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
