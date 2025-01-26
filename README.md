@@ -11,6 +11,8 @@ My name is Sam and I currently live in Ottawa! I am a Carleton University Fullst
 <!--   -->
  ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=teelsam&hide_rank=true)
 
+
+# Thank you for Visiting!
 <!--
 **Teelsam/TeelSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
